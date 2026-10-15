@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "The Relationships That Shape Us"
+  page-footer:
+    background: light # Use a light background for the footer
+    center: "Fall 2026, Lillian Snider"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: identitycapital.qmd
+        text: "Identity Capital: Understanding Personal and Social Resources"
+      - href: naturalmentoring.qmd
+        text: "Natural Mentoring: The Role of Relationships in Development"
+      - href: connecting.qmd
+        text: "Connecting Identity Capital and Natural Mentoring"
+
+format:
+  html:
+    theme:
+      - Pulse
+    css: styles.css
+    toc: true
+
+editor: visual
+

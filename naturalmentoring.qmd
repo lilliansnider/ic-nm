@@ -1,0 +1,71 @@
+---
+title: "Natural Mentoring: The Role of Relationships in Development"
+date-modified: last-modified 
+format: 
+  html:
+    linkcolor: "#3366CC"
+---
+
+Relationships shape how people understand themselves, navigate unfamiliar environments, and consider their futures, as illustrated through the Identity Capital Model. During college, students interact with professors, supervisors, peers, family members, and others who may offer guidance as they pursue academic, personal, and professional goals. Some of these relationships become important capital resources that help students recognize their strengths, explore opportunities, and navigate challenges.
+
+Natural mentoring provides a framework for understanding how meaningful mentoring relationships can emerge through everyday social interactions. Rather than requiring a formal mentoring program, these relationships develop through existing social networks and communities, allowing guidance and support to emerge as individuals' needs and circumstances change.
+
+## Defining Natural Mentoring
+
+Natural mentoring refers to supportive relationships that develop organically through existing social networks and communities (Zimmerman et al., 2005). These relationships may form between students and professors, employees and supervisors, students at different stages of development, or individuals and members of their families and communities. Natural mentors are commonly defined as an older, more experienced adult who takes an interest in another person's development and provides support through their relationship. Following Hurd et al. (2016), natural mentors are distinguished from parents or other parental figures, friends, and romantic partners. Other relatives, such as grandparents, aunts, uncles, or cousins, may qualify as natural mentors if they provide guidance and support outside a parental role. Natural mentors may be people students knew before college or adults they meet during their college experience. This support may include encouragement, sharing knowledge and experiences, offering guidance, serving as a role model, or connecting someone with new opportunities. Over time, continued interaction and mutual trust can allow these relationships to become meaningful sources of developmental support.
+
+## How Natural Mentoring Supports Development
+
+Natural mentoring relationships can support development in several interconnected ways. Rhodes's (2005) model of youth mentoring identifies social-emotional, cognitive, and identity development as pathways through which mentoring relationships may influence young people. Although this model focuses on youth mentoring, it offers a useful framework for understanding forms of support that may also be relevant during college.
+
+#### Emotional and Social Support
+
+Natural mentors can provide encouragement, listen to concerns, and help individuals navigate uncertainty. Supportive relationships create opportunities to discuss challenges, consider different perspectives, and receive constructive feedback. For college students, this support may be particularly valuable when adjusting to unfamiliar academic environments or making decisions about the future. A professor who responds thoughtfully to a student's concerns, for example, may help the student feel more comfortable asking questions and seeking assistance. Research on youth mentoring programs has identified benefits across behavioral, social, emotional, and academic outcomes, although findings vary according to program and relationship characteristics (DuBois et al., 2011). These findings underscore the importance of relationship quality without establishing that every natural mentoring relationship produces the same outcomes.
+
+#### Knowledge and Guidance
+
+Mentors can help individuals understand expectations, navigate unfamiliar environments, and identify practical steps toward their goals. In higher education, this guidance may involve finding research opportunities, preparing for graduate school, developing professional skills, or learning how to access university resources. Relationships can also provide access to information and resources that individuals may not possess independently. Bourdieu's (1986) work on social capital helps explain how social connections can facilitate access to resources, while Hagler's (2018) network-based mentoring model examines how naturally occurring relationships with institutional agents can help students navigate educational environments. These perspectives highlight the value of having someone who can explain not only which opportunities exist, but also how to pursue them.
+
+#### Role Modeling and Identity Development
+
+Natural mentors can influence how individuals understand their abilities and envision their futures. Observing another person's experiences, decisions, and responses to challenges can introduce possibilities that individuals may not have previously considered. Rhodes (2005)identifies role modeling as one pathway through which mentoring relationships may contribute to identity development, while Hagler (2018) considers the role of natural mentoring in students' development within educational settings. For example, a student unfamiliar with academic research may benefit from a professor who shares their career experiences and explains the range of opportunities available in psychology. This interaction may help the student consider research as a possible career path and evaluate whether it aligns with their interests. Markus and Nurius's (1986) concept of possible selves provides a complementary perspective, emphasizing how people's ideas about who they might become relate to their self-concept and motivation. Mentors may contribute to this process by encouraging exploration and helping students recognize possibilities they had not previously considered.
+
+## Natural Mentoring Before and During College
+
+Natural mentoring relationships can support students before they enter college and continue to develop as they navigate higher education. Before college, teachers, coaches, supervisors, and community members may help students explore their interests, learn about educational opportunities, and prepare for unfamiliar expectations. These relationships can provide guidance as students make decisions about their futures and begin navigating the transition to higher education. For example, a high school teacher who encourages a student's academic interests may help them recognize their strengths and consider opportunities they had not previously imagined. A coach or community mentor may share practical advice about pursuing educational goals or connecting with people who have relevant experience. Such relationships may help students develop knowledge, confidence, and connections they can draw upon when entering college.
+
+Natural mentoring opportunities also emerge during college. Professors, supervisors, graduate students, peers, and community members may help students understand academic expectations, explore career paths, and access new opportunities. Some relationships develop through repeated interaction in classrooms, research laboratories, campus employment, and student organizations. Others emerge through less-frequent interactions that introduce students to new information or social networks. Students enter college with different experiences, support systems, and access to opportunities. Some may already have supportive mentors, while others may develop meaningful relationships after arriving on campus. Recognizing the value of both existing relationships and new connections helps students consider where they can find guidance, learn from others' experiences, and expand their opportunities for development.
+
+## Recognizing Natural Mentoring Relationships
+
+Natural mentoring relationships can be difficult to recognize because they often develop through ordinary interactions rather than formal arrangements. Someone who consistently offers thoughtful feedback, shares relevant experiences, encourages your development, or helps you explore opportunities may be serving as a natural mentor even if neither person uses that term. Reflecting on your existing relationships can help you recognize the different forms of support available to you and identify areas where additional guidance might be useful.
+
+Consider the following questions:
+
+1.  Who has helped you navigate an important decision or unfamiliar situation?\
+2.  Who has shared knowledge or experiences that helped you understand an academic, professional, or social environment?\
+3.  Which relationships have encouraged you to explore interests or opportunities you had not previously considered?\
+4.  What kinds of support would be helpful as you work toward your current goals?\
+5.  Where might you find opportunities to connect with people who have relevant experiences or share your interests?\
+
+Natural mentoring highlights the developmental importance of relationships that emerge through everyday life. Recognizing these connections can help individuals better understand their sources of support and the ways relationships contribute to their ongoing personal, academic, and professional development.
+
+## References:
+
+Bourdieu, P. (1986). The forms of capital. In J. G. Richardson (Ed.), Handbook of theory and research for the sociology of education (pp. 241–258). Greenwood Press.
+
+DuBois, D. L., Portillo, N., Rhodes, J. E., Silverthorn, N., & Valentine, J. C. (2011). How effective are mentoring programs for youth? A systematic assessment of the evidence. Psychological Science in the Public Interest, 12(2), 57–91. <https://doi.org/10.1177/1529100611414806>
+
+Fruiht, V. (2015). Supportive others in the lives of college students and their relevance to hope. Journal of College Student Retention: Research, Theory & Practice, 16, 64–87. <https://doi.org/10.1177/1521025115571104>
+
+Hagler, M. (2018). Processes of natural mentoring that promote underrepresented students’ educational attainment: A theoretical model. American Journal of Community Psychology, 62(1–2), 150–162. <https://doi.org/10.1002/ajcp.12251>
+
+Hurd, N. M., Tan, J. S., & Loeb, E. L. (2016). Natural mentoring relationships and the adjustment to college among underrepresented students. American Journal of Community Psychology, 57(3–4), 330–341. <https://doi.org/10.1002/ajcp.12059>
+
+Markus, H., & Nurius, P. (1986). Possible selves. American Psychologist, 41(9), 954–969. <https://doi.org/10.1037/0003-066X.41.9.954>
+
+Monjaras-Gaytan, L. Y., & Sánchez, B. (2023). Historically underrepresented college students and natural mentoring relationships: A systematic review. Children and Youth Services Review, 149, Article 106965. <https://doi.org/10.1016/j.childyouth.2023.106965>
+
+Rhodes, J. E. (2005). A theoretical model of youth mentoring. In D. L. DuBois & M. J. Karcher (Eds.), Handbook of youth mentoring (pp. 30–43). SAGE Publications.
+
+Zimmerman, M. A., Bingenheimer, J. B., & Notaro, P. C. (2002). Natural mentors and adolescent resiliency: A study with urban youth. American Journal of Community Psychology, 30(2), 221–243. <https://doi.org/10.1023/A:1014632911622>

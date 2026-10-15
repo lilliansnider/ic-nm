@@ -1,0 +1,35 @@
+---
+title: "The Relationships That Shape Us: An Informational Resource on Natual Mentoring and Identity Capital in Higher Education"
+subtitle: "Fall 2026"
+format: 
+  html:
+    linkcolor: "#3366CC"
+---
+
+## How do the people in our lives shape who we are and what we believe is possible? 
+
+College is more than an academic experience. As students navigate new environments, develop greater independence, explore their values and goals, and make decisions about their futures, these experiences can shape how students understand themselves, the resources they develop, and the possibilities they envision for their lives.
+
+Relationships with supportive adults play an important role in this process. Natural mentoring relationships develop organically through everyday interactions with people such as faculty members, supervisors, coaches, and other trusted adults. Unlike formal mentoring programs, these relationships are not established through an assigned mentoring arrangement. They can offer students guidance, encouragement, knowledge, and perspectives as they navigate college and consider their futures.
+
+*The Relationships That Shape Us* explores natural mentoring among college students through the lens of Côté’s identity capital model. This resource examines identity capital as a framework for understanding the personal resources individuals develop and draw upon as they navigate social environments, make decisions, and pursue opportunities. By bringing together research on identity capital and natural mentoring, this website explores how supportive relationships may contribute to students’ development and their ability to navigate higher education.
+
+## Explore the Resource
+
+### [Identity Capital: Understanding Personal and Social Resources](/identitycapital.qmd){.fs-5}
+XX write description XX
+
+### [Natural Mentoring: The Role of Relationships in Development](/naturalmentoring.qmd){.fs-5}
+XX write description XX
+
+### [Connecting Identity Capital and Natural Mentoring](/connecting.qmd){.fs-5}
+XX write description XXX 
+
+## Why These Relationships Matter
+
+Students do not navigate higher education with identical experiences, resources, or opportunities. Access to supportive relationships can vary, as can the knowledge, encouragement, and guidance students receive. Understanding natural mentoring means examining not only the potential benefits of these relationships but also the circumstances that make them more or less accessible.
+
+By considering mentoring through the identity capital model, this resource highlights the relationship between social connections and the personal resources students draw upon as they navigate college and plan for their futures.
+
+
+
