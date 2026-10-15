@@ -17,13 +17,13 @@ Relationships with supportive adults play an important role in this process. Nat
 ## Explore the Resource
 
 ### [Identity Capital: Understanding Personal and Social Resources](/identitycapital.qmd){.fs-5}
-XX write description XX
+Explore Côté’s Identity Capital Model and how personal and social resources, including skills, knowledge, confidence, and relationships, shape how individuals navigate their environments, make decisions, and pursue future goals.
 
 ### [Natural Mentoring: The Role of Relationships in Development](/naturalmentoring.qmd){.fs-5}
-XX write description XX
+Learn how natural mentoring relationships develop through everyday interactions and how supportive adults can provide guidance, encouragement, knowledge, and access to opportunities that support students’ development.
 
 ### [Connecting Identity Capital and Natural Mentoring](/connecting.qmd){.fs-5}
-XX write description XXX 
+Explore how natural mentoring may contribute to identity capital by helping students develop resources, recognize new possibilities, and navigate their futures. This page brings the two perspectives together to examine the connection between relationships and identity development.
 
 ## Why These Relationships Matter
 
@@ -31,5 +31,8 @@ Students do not navigate higher education with identical experiences, resources,
 
 By considering mentoring through the identity capital model, this resource highlights the relationship between social connections and the personal resources students draw upon as they navigate college and plan for their futures.
 
+## Purpose of this Resource
+
+This resource is designed to help traditional college-aged students, approximately 18–25 years old, understand how relationships with supportive adults can shape identity development and contribute to the resources they draw upon as they navigate higher education and plan for the future.
 
 
